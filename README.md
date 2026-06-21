@@ -1,1 +1,2 @@
-https://realpython.github.io/fake-jobs/
+## 项目目标
+本项目从 [Fake Python Jobs 网站](https://realpython.github.io/fake-jobs/) 抓取职位信息。
